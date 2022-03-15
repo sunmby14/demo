@@ -1,0 +1,19 @@
+body {
+    background-color: paleturquoise;
+}
+
+h1 {
+    color: blue;
+}
+
+div>p {
+    color: yellow;
+}
+
+div p {
+    color: red;
+}
+
+div+p {
+    color: green;
+}
